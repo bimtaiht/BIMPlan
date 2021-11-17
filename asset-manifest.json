@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/BIMPlan/static/css/main.a8c93c84.chunk.css",
-    "main.js": "/BIMPlan/static/js/main.27df3097.chunk.js",
-    "main.js.map": "/BIMPlan/static/js/main.27df3097.chunk.js.map",
-    "runtime-main.js": "/BIMPlan/static/js/runtime-main.a5d0212d.js",
-    "runtime-main.js.map": "/BIMPlan/static/js/runtime-main.a5d0212d.js.map",
-    "static/css/2.ae1894b5.chunk.css": "/BIMPlan/static/css/2.ae1894b5.chunk.css",
-    "static/js/2.b7dc8f57.chunk.js": "/BIMPlan/static/js/2.b7dc8f57.chunk.js",
-    "static/js/2.b7dc8f57.chunk.js.map": "/BIMPlan/static/js/2.b7dc8f57.chunk.js.map",
-    "static/js/3.ac0afcec.chunk.js": "/BIMPlan/static/js/3.ac0afcec.chunk.js",
-    "static/js/3.ac0afcec.chunk.js.map": "/BIMPlan/static/js/3.ac0afcec.chunk.js.map",
+    "main.css": "/BIMPlan/static/css/main.e2501540.chunk.css",
+    "main.js": "/BIMPlan/static/js/main.aee0480c.chunk.js",
+    "main.js.map": "/BIMPlan/static/js/main.aee0480c.chunk.js.map",
+    "runtime-main.js": "/BIMPlan/static/js/runtime-main.eb8437e6.js",
+    "runtime-main.js.map": "/BIMPlan/static/js/runtime-main.eb8437e6.js.map",
+    "static/css/2.2fe0922a.chunk.css": "/BIMPlan/static/css/2.2fe0922a.chunk.css",
+    "static/js/2.ebe43a86.chunk.js": "/BIMPlan/static/js/2.ebe43a86.chunk.js",
+    "static/js/2.ebe43a86.chunk.js.map": "/BIMPlan/static/js/2.ebe43a86.chunk.js.map",
+    "static/js/3.9f609bb3.chunk.js": "/BIMPlan/static/js/3.9f609bb3.chunk.js",
+    "static/js/3.9f609bb3.chunk.js.map": "/BIMPlan/static/js/3.9f609bb3.chunk.js.map",
     "index.html": "/BIMPlan/index.html",
-    "static/css/2.ae1894b5.chunk.css.map": "/BIMPlan/static/css/2.ae1894b5.chunk.css.map",
-    "static/css/main.a8c93c84.chunk.css.map": "/BIMPlan/static/css/main.a8c93c84.chunk.css.map",
-    "static/js/2.b7dc8f57.chunk.js.LICENSE.txt": "/BIMPlan/static/js/2.b7dc8f57.chunk.js.LICENSE.txt"
+    "static/css/2.2fe0922a.chunk.css.map": "/BIMPlan/static/css/2.2fe0922a.chunk.css.map",
+    "static/css/main.e2501540.chunk.css.map": "/BIMPlan/static/css/main.e2501540.chunk.css.map",
+    "static/js/2.ebe43a86.chunk.js.LICENSE.txt": "/BIMPlan/static/js/2.ebe43a86.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a5d0212d.js",
-    "static/css/2.ae1894b5.chunk.css",
-    "static/js/2.b7dc8f57.chunk.js",
-    "static/css/main.a8c93c84.chunk.css",
-    "static/js/main.27df3097.chunk.js"
+    "static/js/runtime-main.eb8437e6.js",
+    "static/css/2.2fe0922a.chunk.css",
+    "static/js/2.ebe43a86.chunk.js",
+    "static/css/main.e2501540.chunk.css",
+    "static/js/main.aee0480c.chunk.js"
   ]
 }
