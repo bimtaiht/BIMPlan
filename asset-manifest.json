@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/BIMPlan/static/css/main.197aff80.chunk.css",
-    "main.js": "/BIMPlan/static/js/main.8cfef295.chunk.js",
-    "main.js.map": "/BIMPlan/static/js/main.8cfef295.chunk.js.map",
+    "main.js": "/BIMPlan/static/js/main.0f2e3af6.chunk.js",
+    "main.js.map": "/BIMPlan/static/js/main.0f2e3af6.chunk.js.map",
     "runtime-main.js": "/BIMPlan/static/js/runtime-main.b695ef57.js",
     "runtime-main.js.map": "/BIMPlan/static/js/runtime-main.b695ef57.js.map",
     "static/css/2.2fe0922a.chunk.css": "/BIMPlan/static/css/2.2fe0922a.chunk.css",
-    "static/js/2.3a6c530a.chunk.js": "/BIMPlan/static/js/2.3a6c530a.chunk.js",
-    "static/js/2.3a6c530a.chunk.js.map": "/BIMPlan/static/js/2.3a6c530a.chunk.js.map",
+    "static/js/2.999e494e.chunk.js": "/BIMPlan/static/js/2.999e494e.chunk.js",
+    "static/js/2.999e494e.chunk.js.map": "/BIMPlan/static/js/2.999e494e.chunk.js.map",
     "static/js/3.6c009af2.chunk.js": "/BIMPlan/static/js/3.6c009af2.chunk.js",
     "static/js/3.6c009af2.chunk.js.map": "/BIMPlan/static/js/3.6c009af2.chunk.js.map",
     "index.html": "/BIMPlan/index.html",
     "static/css/2.2fe0922a.chunk.css.map": "/BIMPlan/static/css/2.2fe0922a.chunk.css.map",
     "static/css/main.197aff80.chunk.css.map": "/BIMPlan/static/css/main.197aff80.chunk.css.map",
-    "static/js/2.3a6c530a.chunk.js.LICENSE.txt": "/BIMPlan/static/js/2.3a6c530a.chunk.js.LICENSE.txt"
+    "static/js/2.999e494e.chunk.js.LICENSE.txt": "/BIMPlan/static/js/2.999e494e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.b695ef57.js",
     "static/css/2.2fe0922a.chunk.css",
-    "static/js/2.3a6c530a.chunk.js",
+    "static/js/2.999e494e.chunk.js",
     "static/css/main.197aff80.chunk.css",
-    "static/js/main.8cfef295.chunk.js"
+    "static/js/main.0f2e3af6.chunk.js"
   ]
 }
