@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/BIMPlan/static/css/main.6a153d11.chunk.css",
-    "main.js": "/BIMPlan/static/js/main.fe24f928.chunk.js",
-    "main.js.map": "/BIMPlan/static/js/main.fe24f928.chunk.js.map",
+    "main.js": "/BIMPlan/static/js/main.e416faa6.chunk.js",
+    "main.js.map": "/BIMPlan/static/js/main.e416faa6.chunk.js.map",
     "runtime-main.js": "/BIMPlan/static/js/runtime-main.b695ef57.js",
     "runtime-main.js.map": "/BIMPlan/static/js/runtime-main.b695ef57.js.map",
     "static/css/2.2fe0922a.chunk.css": "/BIMPlan/static/css/2.2fe0922a.chunk.css",
@@ -20,6 +20,6 @@
     "static/css/2.2fe0922a.chunk.css",
     "static/js/2.999e494e.chunk.js",
     "static/css/main.6a153d11.chunk.css",
-    "static/js/main.fe24f928.chunk.js"
+    "static/js/main.e416faa6.chunk.js"
   ]
 }
